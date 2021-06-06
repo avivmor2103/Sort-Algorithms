@@ -1,0 +1,17 @@
+﻿  main.cpp
+C:\Users\avivm\Desktop\MTA\2nd_year\2nd_semester\Data_Structures\Exercises\Ex1_programming\Algorithms\Algorithms\main.cpp(64,21): warning C4244: 'initializing': conversion from '_Rep' to 'double', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\avivm\Desktop\MTA\2nd_year\2nd_semester\Data_Structures\Exercises\Ex1_programming\Algorithms\Algorithms\main.cpp(85,20): warning C4244: 'initializing': conversion from '_Rep' to 'double', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\avivm\Desktop\MTA\2nd_year\2nd_semester\Data_Structures\Exercises\Ex1_programming\Algorithms\Algorithms\main.cpp(106,20): warning C4244: 'initializing': conversion from '_Rep' to 'double', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+  Algorithms.vcxproj -> C:\Users\avivm\Desktop\MTA\2nd_year\2nd_semester\Data_Structures\Exercises\Ex1_programming\Algorithms\Debug\Algorithms.exe

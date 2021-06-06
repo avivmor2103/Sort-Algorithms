@@ -1,0 +1,1 @@
+Time taken by function <name-of-fun> is : 0.000015 sec
